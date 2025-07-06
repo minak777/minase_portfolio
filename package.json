@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/minak777/minase_portfolio",
+  "homepage": "https://github.com/minak777/minase_portfolio.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
